@@ -28,3 +28,8 @@ body {
     background-position: center;
     background-size: 1500px 900px;
 }
+
+.nav-item{
+    background-color:antiquewhite;
+    font-weight:bolder;
+}
